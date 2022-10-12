@@ -10,11 +10,11 @@
 <meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Style-Type" content="text/css">
-<meta name="Description" content="uƒQ[ƒ€v‚©‚çuG’kv‚Ü‚Å‚ğèL‚­ƒJƒo[‚·‚é‹‘åŒf¦”ÂŒQw14‚¿‚á‚ñ‚Ë‚éx‚Ö‚æ‚¤‚±‚»I arkmonster.r.ribbon.to">
-<meta name="KeyWords" content="14‚¿‚á‚ñ‚Ë‚é, Œf¦”Â, 14ch, BBS, 14ƒ`ƒƒƒ“ƒlƒ‹, 14chBBS, 14CH, 14‚¿‚á‚ñ‚Ë‚é, Nch, Nƒ`ƒƒƒ“ƒlƒ‹, N‚¿‚á‚ñ‚Ë‚é, NCH, NchBBS">
+<meta name="Description" content="ã€Œã‚²ãƒ¼ãƒ ã€ã‹ã‚‰ã€Œé›‘è«‡ã€ã¾ã§ã‚’æ‰‹åºƒãã‚«ãƒãƒ¼ã™ã‚‹å·¨å¤§æ²ç¤ºæ¿ç¾¤ã€14ã¡ã‚ƒã‚“ã­ã‚‹ã€ã¸ã‚ˆã†ã“ãï¼ arkmonster.r.ribbon.to">
+<meta name="KeyWords" content="14ã¡ã‚ƒã‚“ã­ã‚‹, æ²ç¤ºæ¿, 14ch, BBS, 14ãƒãƒ£ãƒ³ãƒãƒ«, 14chBBS, 14CH, 14ã¡ã‚ƒã‚“ã­ã‚‹, Nch, Nãƒãƒ£ãƒ³ãƒãƒ«, Nã¡ã‚ƒã‚“ã­ã‚‹, NCH, NchBBS">
 <meta name="Author" content="nennneko5787">
 
-<title>14‚¿‚á‚ñ‚Ë‚éŒf¦”Â‚Ö‚æ‚¤‚±‚»</title>
+<title>14ã¡ã‚ƒã‚“ã­ã‚‹æ²ç¤ºæ¿ã¸ã‚ˆã†ã“ã</title>
 <style type="text/css">
 @charset "Shift_JIS";body{font-size:10pt;font-family:Arial,Helvetica,San-serif;background:#FFF;margin:0px;padding:0px;}a{text-decoration:none;}a:link{color:#0066CC;}a:visited{color:#663399;}a:active{color:#FF3300;}a:hover{color:#FF3300;}#wrapper{background:#FFFFFF;margin:0px auto;padding:0px;height:auto;text-align:left;}#header{height:40px;margin:0px;padding:20px 20px 3px 20px;border-bottom:solid 1px #ccc;vertical-align:middle;}#header_inside{width:840px;}.header_left{float:left;margin:0px;padding:0px;}.header_right{float:right;text-align:right;margin-top:5px;padding:0px;margin-right:5px;}.senna_banner{float:right;margin-top:5px;padding:0px;}.form_input{width:10em;height:1em;}.form_button{vertical-align:text-bottom;}.form_select{width:8em;height:1.3em;}.caption{font-size:10pt;}#under_header{text-align:right;padding:5px 20px 10px 0px;}#main{width:100%;margin:auto;text-align:center;}#main img{margin:20px;}#contents{margin:50px 100px 50px 100px;padding:0px;line-height:140%;}#footer_menu{text-align:center;margin:0px;padding:0px 0px 0px 0px;}.guide{width:100%;margin:0px;padding:10px 0px 5px 0px;border-bottom:solid 1px #ccc;}.service{margin:0px;padding:5px 0px 0px 0px;}.banner{margin:0px;padding:10px 0px 50px 0px;}.banner img{padding:5px;}.condition{margin:0px;padding:20px 5px 5px 5px;text-align:center;}#footer{margin:50px 0px 0px 0px;padding;0px;height:45px;width:100%;height:50px;}.footer_left{float:left;margin:0px;padding:10px 0px 5px 20px;width:240px;}.footer_right{float:right;margin:0px;padding:10px 20px 5px 0px;width;240px;}
 </style>
@@ -24,9 +24,9 @@
 <div id="header">
 <div id="header_inside">
 <div class="header_left">
-<a href="./14ch.html"><img src="14ch_logo.png" width="151" height="40" alt="14‚¿‚á‚ñ‚Ë‚é" align="middle" border="0"></a><a href="./14ch.html">Œf¦”Â</a>b<a href="./sp.php">ƒXƒ}ƒz”Å</a>b<a href="./old__index.html">‘O‚Ìindex</a>b<a href="./old_index.html">‘O‚Ì‘O‚Ìindex.html</a><!--b
+<a href="./14ch.html"><img src="14ch_logo.png" width="151" height="40" alt="14ã¡ã‚ƒã‚“ã­ã‚‹" align="middle" border="0"></a><a href="./14ch.html">æ²ç¤ºæ¿</a>ï½œ<a href="./sp.php">ã‚¹ãƒãƒ›ç‰ˆ</a>ï½œ<a href="./old__index.html">å‰ã®index</a>ï½œ<a href="./old_index.html">å‰ã®å‰ã®index.html</a><!--ï½œ
 
-<div style="display: inline; margin-left: 2.0em;"><form method="GET" action="https://find.3chan.jp/search" accept-charset="UTF-8" style="display: inline;"><input type="text" name="q" style="width: 16em; height: 21.5px;"><button type="submit">ƒXƒŒƒ^ƒCŒŸõ</button></form>
+<div style="display: inline; margin-left: 2.0em;"><form method="GET" action="https://find.3chan.jp/search" accept-charset="UTF-8" style="display: inline;"><input type="text" name="q" style="width: 16em; height: 21.5px;"><button type="submit">ã‚¹ãƒ¬ã‚¿ã‚¤æ¤œç´¢</button></form>
 <!-- <script src="https://code.jquery.com/jquery-1.12.1.min.js" crossorigin="anonymous"></script><script>$("#fulltext-keyword").on("keyup change",function(){var e=$(this).val();$("#thread-keyword").val(e)});</script> -->
 </div>
 
@@ -40,30 +40,30 @@
 <a href="./14ch.html"><img src="14ch-logo.png"></a>
 
 <br>
-<script src="count.js"></script><small>(2022/04/23 START)</small>
+<script src="count_utf8.js"></script><small>(2022/04/23 START)</small>
 <br>
 </div>
 
 <div id="footer_menu">
 <div class="guide">
-<a href="./test/read.cgi/admin/1651469945">14‚¿‚á‚ñ‚Ë‚é‚©‚ç‚Ì‚¨’m‚ç‚¹</a>b<a href="./April-gum/">ƒGƒCƒvƒŠƒ‹ƒKƒ€</a>
+<a href="./test/read.cgi/admin/1651469945">14ã¡ã‚ƒã‚“ã­ã‚‹ã‹ã‚‰ã®ãŠçŸ¥ã‚‰ã›</a>ï½œ<a href="./April-gum/">ã‚¨ã‚¤ãƒ—ãƒªãƒ«ã‚¬ãƒ </a>
 
 </div>
 
 <div align="center">
-  14‚¿‚á‚ñ‚Ë‚éŒf¦”Â‚Ì‚²—˜—p‚Í—˜—pÒŠeˆÊ‚Ì‚²”»’f‚É‚¨”C‚¹‚µ‚Ä‚¢‚Ü‚·B
+  14ã¡ã‚ƒã‚“ã­ã‚‹æ²ç¤ºæ¿ã®ã”åˆ©ç”¨ã¯åˆ©ç”¨è€…å„ä½ã®ã”åˆ¤æ–­ã«ãŠä»»ã›ã—ã¦ã„ã¾ã™ã€‚
 <div><font color="#666666" size="1">
-14‚¿‚á‚ñ‚Ë‚é‚ÉŠÖ‚µ‚Ä‚Ì‚¨–â‚¢‡‚í‚¹‚Í <a href="mailto:14ch@f5.si">‚±‚¿‚ç</a>‚Ö‚Ç‚¤‚¼B
+14ã¡ã‚ƒã‚“ã­ã‚‹ã«é–¢ã—ã¦ã®ãŠå•ã„åˆã‚ã›ã¯ <a href="mailto:14ch@f5.si">ã“ã¡ã‚‰</a>ã¸ã©ã†ãã€‚
 </font></div> 
-  <p><font size="1">14‚¿‚á‚ñ‚Ë‚éŒf¦”Â‚Ìƒf[ƒ^‚Ì—˜—p‚ÉŠÖ‚µ‚ÄAŒ´‘¥“I‚É©—R‚Å‚·‚ªA14‚¿‚á‚ñ‚Ë‚é‚Ì‘‚«‚İ‚È‚Ç‚ğ—˜—p‚µ‚Ä<!--‘Î‰¿‚ğæ‚é-->û‰v‚ğ“¾‚ésˆ×‚ğ‚·‚é‚Æ‚«‚Í<!--‚Í--><!--‚²‰“—¶‰º‚³‚¢B-->‚Ç‚±‚©‚ÉƒXƒŒ‚ÌURL‚ğ’£‚Á‚Ä‚­‚¾‚³‚¢B<br>
+  <p><font size="1">14ã¡ã‚ƒã‚“ã­ã‚‹æ²ç¤ºæ¿ã®ãƒ‡ãƒ¼ã‚¿ã®åˆ©ç”¨ã«é–¢ã—ã¦ã€åŸå‰‡çš„ã«è‡ªç”±ã§ã™ãŒã€14ã¡ã‚ƒã‚“ã­ã‚‹ã®æ›¸ãè¾¼ã¿ãªã©ã‚’åˆ©ç”¨ã—ã¦<!--å¯¾ä¾¡ã‚’å–ã‚‹-->åç›Šã‚’å¾—ã‚‹è¡Œç‚ºã‚’ã™ã‚‹ã¨ãã¯<!--ã¯--><!--ã”é æ…®ä¸‹ã•ã„ã€‚-->ã©ã“ã‹ã«ã‚¹ãƒ¬ã®URLã‚’å¼µã£ã¦ãã ã•ã„ã€‚<br>
     <br>
-    —v‚·‚é‚ÉA14‚¿‚á‚ñ‚Ë‚é‚Ì‘‚«‚İ‚ğ“]Ú‚µ‚Ä‚¨‹à–×‚¯‚ğ‚µ‚Ä‚¢‚é‚æ‚¤‚È<!--‚ğƒ‚ƒjƒ^[‚µ‚ÄA‚¨‹à‚ğ‚Æ‚Á‚Ä‚éƒ}[ƒPƒeƒBƒ“ƒO‰ïĞ‚Ì-->Youtube‚Ü‚Æ‚ß‚Ì•û‚Í<br>
-    <!--ƒRƒ“ƒeƒ“ƒc‚Ìg—p‹–‘ø‚ğ“¾<!--‚²‘Š’k’¸‚¯-->ŠT—v—“‚©“®‰æ‚Ì‚Ç‚±‚©‚ÉƒXƒŒƒbƒh‚ÌURL‚ğ’£‚ç‚È‚¢‚Æ–Ê“|‚È‚±‚Æ‚É‚È‚é‚©‚à‚µ‚ê‚Ü‚¹‚ñAAA‚Á‚Ä‚±‚Æ‚Å‚·B</font></p>
+    è¦ã™ã‚‹ã«ã€14ã¡ã‚ƒã‚“ã­ã‚‹ã®æ›¸ãè¾¼ã¿ã‚’è»¢è¼‰ã—ã¦ãŠé‡‘å„²ã‘ã‚’ã—ã¦ã„ã‚‹ã‚ˆã†ãª<!--ã‚’ãƒ¢ãƒ‹ã‚¿ãƒ¼ã—ã¦ã€ãŠé‡‘ã‚’ã¨ã£ã¦ã‚‹ãƒãƒ¼ã‚±ãƒ†ã‚£ãƒ³ã‚°ä¼šç¤¾ã®-->Youtubeã¾ã¨ã‚ã®æ–¹ã¯<br>
+    <!--ã‚³ãƒ³ãƒ†ãƒ³ãƒ„ã®ä½¿ç”¨è¨±è«¾ã‚’å¾—<!--ã”ç›¸è«‡é ‚ã‘-->æ¦‚è¦æ¬„ã‹å‹•ç”»ã®ã©ã“ã‹ã«ã‚¹ãƒ¬ãƒƒãƒ‰ã®URLã‚’å¼µã‚‰ãªã„ã¨é¢å€’ãªã“ã¨ã«ãªã‚‹ã‹ã‚‚ã—ã‚Œã¾ã›ã‚“ã€ã€ã€ã£ã¦ã“ã¨ã§ã™ã€‚</font></p>
 </div>
 
 </div></div>
-<p>index.php(ŠJ”­’†...) <!--ver -->nennneko5787—‚Ç‚¤‚â‚çŠÇ—l š</p>
+<p>index.php(é–‹ç™ºä¸­...) <!--ver -->nennneko5787ï¼ ã©ã†ã‚„ã‚‰ç®¡ç†äºº â˜…</p>
 <iframe frameborder="0" scrolling="no" style="background-color: transparent; border: 0px; display: none;"></iframe><div id="GOOGLE_INPUT_CHEXT_FLAG" input="" input_stat="{&quot;tlang&quot;:true,&quot;tsbc&quot;:true,&quot;pun&quot;:true,&quot;mk&quot;:true,&quot;ss&quot;:true}" style="display: none;">
 </div>
-<a href="https://www.kooss.com/"><img src="koossbn20.gif"><br>–³—¿î•ñ‚ª‘òR‚ ‚è‚Ü‚·B</img></a>
+<a href="https://www.kooss.com/"><img src="koossbn20.gif"><br>ç„¡æ–™æƒ…å ±ãŒæ²¢å±±ã‚ã‚Šã¾ã™ã€‚</img></a>
 </body></html>
