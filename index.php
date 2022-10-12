@@ -7,7 +7,7 @@
 
 
 
-<meta http-equiv="Content-Type" content="text/html; charset=shift_jis">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Script-Type" content="text/javascript">
 <meta http-equiv="Content-Style-Type" content="text/css">
 <meta name="Description" content="「ゲーム」から「雑談」までを手広くカバーする巨大掲示板群『14ちゃんねる』へようこそ！ arkmonster.r.ribbon.to">
