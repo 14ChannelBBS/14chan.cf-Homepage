@@ -6,12 +6,19 @@
   </style><title> 14ch BBS ..</title></head>
 	<iframe id="sub" width="120" name="menu" src="http://apple.14chan.cf/bbsmenu.html">
 	<iframe id="sub" width="120" name="main" src="./iyan.html">
-		  <script>
-    const sub = document.getElementById("sub");
+		
+<script type="text/javascript">
+  // Create browser compatible event handler.
+  var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+  var eventer = window[eventMethod];
+  var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+  // Listen for a message from the iframe.
+  eventer(messageEvent, function(e) {
+    if (isNaN(e.data)) return;
 
-    function func1() {
-      sub.style.width = sub.contentWindow.document.body.scrollWidth + "px";
-      sub.style.height = sub.contentWindow.document.body.scrollHeight + "px";
-    }
-  </script>
+    // replace #sizetracker with what ever what ever iframe id you need
+    document.getElementById('sub').style.height = e.data + 'px';
+
+  }, false);
+</script>
 </html>
