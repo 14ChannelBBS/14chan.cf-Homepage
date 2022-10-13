@@ -7,18 +7,18 @@
 	<iframe id="sub" width="120" name="menu" src="http://apple.14chan.cf/bbsmenu.html">
 	<iframe id="sub" width="120" name="main" src="./iyan.html">
 		
-<script type="text/javascript">
-  // Create browser compatible event handler.
+<script type='text/javascript'>
+  // Listen for messages sent from the iFrame
   var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
   var eventer = window[eventMethod];
   var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
-  // Listen for a message from the iframe.
-  eventer(messageEvent, function(e) {
-    if (isNaN(e.data)) return;
 
-    // replace #sizetracker with what ever what ever iframe id you need
-    document.getElementById('sub').style.height = e.data + 'px';
-
-  }, false);
+  eventer(messageEvent,function(e) {
+    // If the message is a resize frame request
+    if (e.data.indexOf('resize::') != -1) {
+      var height = e.data.replace('resize::', '');
+      document.getElementById('sub').style.height = height+'px';
+    }
+  } ,false);
 </script>
 </html>
