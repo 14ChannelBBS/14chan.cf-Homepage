@@ -182,11 +182,12 @@
 
 	<h3>dat</h3>
 	<p>基本、こんな感じ。</p>
-	<pre class="script line-numbers"><code class="language-html">名前<>E-mail<>日付とIDとBE<>本文<>スレッドタイトル
+	<pre class="script line-numbers"><code class="language-html">名前<>E-mail<>日付とID<>本文<>スレッドタイトル
 あぼーん<>あぼーん<>あぼーん<>あぼーん<>あぼーん</code></pre>
 	<p>phpのexplodeでこんな感じ。</p>
 	<pre class="script line-numbers"><code class="language-php">$dat = file("../$bbs/dat/$key.dat");
-list($name,$mail,$time,$message,$subject) = explode("<>",$LOG2);
+//ここでエスケープ処理を挟む
+list($name,$mail,$time,$message,$subject) = explode("<>",$dat);
 </code></pre>
 
 	<footer class="bd-footer py-5 mt-5 bg-body-tertiary">
