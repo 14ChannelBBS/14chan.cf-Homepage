@@ -1,0 +1,15 @@
+blockquote {
+	background-color: var(--bs-secondary-bg);
+	border-color: var(--bs-info-border-subtle);
+	border-style: solid;
+	border-radius: 10px;
+	padding: 15px;
+}
+
+.script {
+	background-color: var(--bs-secondary-bg);
+	border-color: var(--bs-tertiary-color);
+	border-style: solid;
+	border-radius: 10px;
+	padding: 15px;
+}
